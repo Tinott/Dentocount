@@ -1,0 +1,9 @@
+{
+  "name": "Dentocount",
+  "short_name": "Dentocount",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0A101C",
+  "theme_color": "#0A101C",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
